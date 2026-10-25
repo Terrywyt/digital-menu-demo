@@ -6,6 +6,12 @@ A mobile-first digital menu for independent restaurants, built as a small protot
 
 > The demo is a fictional Thai restaurant ("Lotus & Lime"). All dishes, prices and descriptions are sample data.
 
+<p align="center">
+  <img src="docs/screenshot-home.jpg" alt="Menu home screen on a phone" width="30%">
+  <img src="docs/screenshot-category.jpg" alt="Curries category selected" width="30%">
+  <img src="docs/screenshot-dish-detail.jpg" alt="Dish detail view" width="30%">
+</p>
+
 ## What it does
 
 - Category filtering (Popular, Small plates, Curries, Noodles & rice)
