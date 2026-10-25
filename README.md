@@ -1,6 +1,6 @@
 # Digital Menu Demo
 
-A mobile-first digital menu for independent restaurants, built as a small prototype to test whether a single, photo-led menu page is easier for guests to use than separate PDF menus.
+A mobile-first digital menu for independent restaurants, built as a small prototype to test whether a single, photo-led menu page is easier for guests to use than separate PDF menus. In use, guests scan a QR code on the table to open the menu on their phone.
 
 **Live demo:** https://lotus-lime-menu-demo.sappyperch4.chatgpt.site/
 
@@ -11,6 +11,10 @@ A mobile-first digital menu for independent restaurants, built as a small protot
   <img src="docs/screenshot-category.jpg" alt="Curries category selected" width="30%">
   <img src="docs/screenshot-dish-detail.jpg" alt="Dish detail view" width="30%">
 </p>
+
+**Scan to try it on your phone:**
+
+<img src="docs/qr-demo.png" alt="QR code linking to the live demo" width="160">
 
 ## What it does
 
